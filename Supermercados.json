@@ -1,0 +1,133 @@
+{
+  "Supermercados": [
+    {
+      "nombre": "Alcampo",
+      "direccion": "Avenida Ronda del Tamarguillo, 27",
+      "geolocalizacion": {
+        "latitud": 37.404769,
+        "longitud": -5.947553
+      },
+      "productos": [
+        {
+          "nombre": "Huevos",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 1.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Arroz",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 0.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Manzanas",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 1.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Pan",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 1,
+          "adquirido": false
+        },
+        {
+          "nombre": "Chocolate",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "unidad",
+          "precio": 0.59,
+          "adquirido": false
+        },
+        {
+          "nombre": "Leche",
+          "oferta": false,
+          "habitual_sin_oferta": true,
+          "unidad": "litro",
+          "precio": 0.99,
+          "adquirido": true
+        }
+      ]
+    },
+    {
+      "nombre": "Dia",
+      "direccion": "Avenida Alcalde Juan Fernandez, 2",
+      "geolocalizacion": {
+        "latitud": 37.368805,
+        "longitud": -5.984212
+      },
+      "productos": [
+        {
+          "nombre": "Pan",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-05 al 2023-06-20",
+          "habitual_sin_oferta": true,
+          "unidad": "unidad",
+          "precio": 0.50,
+          "adquirido": false
+        },
+        {
+          "nombre": "Platanos",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 1.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Agua",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 0.5,
+          "adquirido": false
+        },
+        {
+          "nombre": "Harina",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 0.60,
+          "adquirido": false
+        },
+        {
+          "nombre": "Pasta",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-15",
+          "habitual_sin_oferta": false,
+          "unidad": "kg",
+          "precio": 0.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Yogur",
+          "oferta": true,
+          "periodo_vigencia": "2023-06-01 al 2023-06-30",
+          "habitual_sin_oferta": false,
+          "unidad": "unidad",
+          "precio": 0.75,
+          "adquirido": false
+        }
+      ]
+    }
+  ]
+}
+
+  

@@ -1,0 +1,130 @@
+<Supermercados>  
+  <supermercado>
+    <nombre>Alcampo</nombre>
+    <direccion>Avenida Ronda del Tamarguillo, 27</direccion>
+    <geolocalizacion>
+      <latitud>37.404769,</latitud>
+      <longitud>-5.947553</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Huevos</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.25</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Arroz</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.55</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Manzanas</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>2.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pan</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.20</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Chocolate</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Leche</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.05</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Dia</nombre>
+    <direccion>Avenida Alcalde Juan Fernandez, 2</direccion>
+    <geolocalizacion>
+      <latitud>37.368805,</latitud>
+      <longitud>-5.984212</longitud>
+    </geolocalizacion>
+    <productos>
+    <producto>
+        <nombre>Pan</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Platanos</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>2.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Agua</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Harina</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pasta</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Yogur</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-06-10 al 2023-06-25</periodo_vigencia>
+        <habitual_sin_oferta>true</habitual_sin_oferta>
+        <unidad>paquete</unidad>
+        <precio>1.05</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+</Supermercados>
